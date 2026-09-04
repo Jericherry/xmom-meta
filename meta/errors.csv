@@ -1,0 +1,168 @@
+symbol,stage,error
+BNXUSDTSETTLED,klines:missing,data/futures/um/monthly/klines/BNXUSDTSETTLED/1d/BNXUSDTSETTLED-1d-2022-09.zip :: 404
+BNXUSDTSETTLED,klines:missing,data/futures/um/monthly/klines/BNXUSDTSETTLED/1d/BNXUSDTSETTLED-1d-2022-11.zip :: 404
+BNXUSDTSETTLED,klines:missing,data/futures/um/monthly/klines/BNXUSDTSETTLED/1d/BNXUSDTSETTLED-1d-2022-10.zip :: 404
+BNXUSDTSETTLED,klines:missing,data/futures/um/monthly/klines/BNXUSDTSETTLED/1d/BNXUSDTSETTLED-1d-2022-12.zip :: 404
+BNXUSDTSETTLED,klines:missing,data/futures/um/monthly/klines/BNXUSDTSETTLED/1d/BNXUSDTSETTLED-1d-2023-01.zip :: 404
+TLMUSDTSETTLED,klines:missing,data/futures/um/monthly/klines/TLMUSDTSETTLED/1d/TLMUSDTSETTLED-1d-2022-03.zip :: 404
+TLMUSDTSETTLED,klines:missing,data/futures/um/monthly/klines/TLMUSDTSETTLED/1d/TLMUSDTSETTLED-1d-2022-09.zip :: 404
+TLMUSDTSETTLED,klines:missing,data/futures/um/monthly/klines/TLMUSDTSETTLED/1d/TLMUSDTSETTLED-1d-2022-10.zip :: 404
+TLMUSDTSETTLED,klines:missing,data/futures/um/monthly/klines/TLMUSDTSETTLED/1d/TLMUSDTSETTLED-1d-2022-11.zip :: 404
+TLMUSDTSETTLED,klines:missing,data/futures/um/monthly/klines/TLMUSDTSETTLED/1d/TLMUSDTSETTLED-1d-2022-12.zip :: 404
+TLMUSDTSETTLED,klines:missing,data/futures/um/monthly/klines/TLMUSDTSETTLED/1d/TLMUSDTSETTLED-1d-2023-01.zip :: 404
+币安人生USDT,klines:error,data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2025-10.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2025-10.zip :: 'ascii' codec can't encode characters in position 36-39: ordinal not in range(128)
+币安人生USDT,klines:error,data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2025-11.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2025-11.zip :: 'ascii' codec can't encode characters in position 36-39: ordinal not in range(128)
+币安人生USDT,klines:error,data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2025-12.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2025-12.zip :: 'ascii' codec can't encode characters in position 36-39: ordinal not in range(128)
+币安人生USDT,klines:error,data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-01.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-01.zip :: 'ascii' codec can't encode characters in position 36-39: ordinal not in range(128)
+币安人生USDT,klines:error,data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-02.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-02.zip :: 'ascii' codec can't encode characters in position 36-39: ordinal not in range(128)
+币安人生USDT,klines:error,data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-03.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-03.zip :: 'ascii' codec can't encode characters in position 36-39: ordinal not in range(128)
+币安人生USDT,klines:error,data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-04.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-04.zip :: 'ascii' codec can't encode characters in position 36-39: ordinal not in range(128)
+币安人生USDT,klines:error,data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-05.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-05.zip :: 'ascii' codec can't encode characters in position 36-39: ordinal not in range(128)
+币安人生USDT,klines:error,data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-06.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-06.zip :: 'ascii' codec can't encode characters in position 36-39: ordinal not in range(128)
+币安人生USDT,klines:error,data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-07.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-07.zip :: 'ascii' codec can't encode characters in position 36-39: ordinal not in range(128)
+币安人生USDT,klines:error,data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-08.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/币安人生USDT/1d/币安人生USDT-1d-2026-08.zip :: 'ascii' codec can't encode characters in position 36-39: ordinal not in range(128)
+我踏马来了USDT,klines:error,data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-01.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-01.zip :: 'ascii' codec can't encode characters in position 36-40: ordinal not in range(128)
+我踏马来了USDT,klines:error,data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-02.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-02.zip :: 'ascii' codec can't encode characters in position 36-40: ordinal not in range(128)
+我踏马来了USDT,klines:error,data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-03.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-03.zip :: 'ascii' codec can't encode characters in position 36-40: ordinal not in range(128)
+我踏马来了USDT,klines:error,data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-04.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-04.zip :: 'ascii' codec can't encode characters in position 36-40: ordinal not in range(128)
+我踏马来了USDT,klines:error,data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-05.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-05.zip :: 'ascii' codec can't encode characters in position 36-40: ordinal not in range(128)
+我踏马来了USDT,klines:error,data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-06.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-06.zip :: 'ascii' codec can't encode characters in position 36-40: ordinal not in range(128)
+我踏马来了USDT,klines:error,data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-07.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-07.zip :: 'ascii' codec can't encode characters in position 36-40: ordinal not in range(128)
+我踏马来了USDT,klines:error,data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-08.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/我踏马来了USDT/1d/我踏马来了USDT-1d-2026-08.zip :: 'ascii' codec can't encode characters in position 36-40: ordinal not in range(128)
+牛来USDT,klines:error,data/futures/um/monthly/klines/牛来USDT/1d/牛来USDT-1d-2026-08.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/牛来USDT/1d/牛来USDT-1d-2026-08.zip :: 'ascii' codec can't encode characters in position 36-37: ordinal not in range(128)
+龙虾USDT,klines:error,data/futures/um/monthly/klines/龙虾USDT/1d/龙虾USDT-1d-2026-03.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/龙虾USDT/1d/龙虾USDT-1d-2026-03.zip :: 'ascii' codec can't encode characters in position 36-37: ordinal not in range(128)
+龙虾USDT,klines:error,data/futures/um/monthly/klines/龙虾USDT/1d/龙虾USDT-1d-2026-04.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/龙虾USDT/1d/龙虾USDT-1d-2026-04.zip :: 'ascii' codec can't encode characters in position 36-37: ordinal not in range(128)
+龙虾USDT,klines:error,data/futures/um/monthly/klines/龙虾USDT/1d/龙虾USDT-1d-2026-05.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/龙虾USDT/1d/龙虾USDT-1d-2026-05.zip :: 'ascii' codec can't encode characters in position 36-37: ordinal not in range(128)
+龙虾USDT,klines:error,data/futures/um/monthly/klines/龙虾USDT/1d/龙虾USDT-1d-2026-06.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/龙虾USDT/1d/龙虾USDT-1d-2026-06.zip :: 'ascii' codec can't encode characters in position 36-37: ordinal not in range(128)
+龙虾USDT,klines:error,data/futures/um/monthly/klines/龙虾USDT/1d/龙虾USDT-1d-2026-07.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/龙虾USDT/1d/龙虾USDT-1d-2026-07.zip :: 'ascii' codec can't encode characters in position 36-37: ordinal not in range(128)
+龙虾USDT,klines:error,data/futures/um/monthly/klines/龙虾USDT/1d/龙虾USDT-1d-2026-08.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/klines/龙虾USDT/1d/龙虾USDT-1d-2026-08.zip :: 'ascii' codec can't encode characters in position 36-37: ordinal not in range(128)
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2021-05.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2021-06.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2021-08.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2021-07.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2021-09.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2021-12.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2022-01.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2022-02.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2021-10.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2022-03.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2022-05.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2022-06.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2022-07.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2022-09.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2022-11.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2023-01.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2022-12.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2022-08.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2023-03.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2023-02.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2021-11.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2023-04.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2023-05.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2023-06.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2022-04.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2023-07.zip :: 404
+BNTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BNTUSDT/BNTUSDT-fundingRate-2022-10.zip :: 404
+BTCSTUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/BTCSTUSDT/BTCSTUSDT-fundingRate-2022-01.zip :: 404
+LITUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/LITUSDT/LITUSDT-fundingRate-2025-08.zip :: 404
+LITUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/LITUSDT/LITUSDT-fundingRate-2025-09.zip :: 404
+LITUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/LITUSDT/LITUSDT-fundingRate-2025-10.zip :: 404
+LITUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/LITUSDT/LITUSDT-fundingRate-2025-11.zip :: 404
+LITUSDT,fundingRate:missing,data/futures/um/monthly/fundingRate/LITUSDT/LITUSDT-fundingRate-2025-07.zip :: 404
+币安人生USDT,fundingRate:error,data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2025-10.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2025-10.zip :: 'ascii' codec can't encode characters in position 41-44: ordinal not in range(128)
+币安人生USDT,fundingRate:error,data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2025-11.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2025-11.zip :: 'ascii' codec can't encode characters in position 41-44: ordinal not in range(128)
+币安人生USDT,fundingRate:error,data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2025-12.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2025-12.zip :: 'ascii' codec can't encode characters in position 41-44: ordinal not in range(128)
+币安人生USDT,fundingRate:error,data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-01.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-01.zip :: 'ascii' codec can't encode characters in position 41-44: ordinal not in range(128)
+币安人生USDT,fundingRate:error,data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-02.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-02.zip :: 'ascii' codec can't encode characters in position 41-44: ordinal not in range(128)
+币安人生USDT,fundingRate:error,data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-03.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-03.zip :: 'ascii' codec can't encode characters in position 41-44: ordinal not in range(128)
+币安人生USDT,fundingRate:error,data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-04.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-04.zip :: 'ascii' codec can't encode characters in position 41-44: ordinal not in range(128)
+币安人生USDT,fundingRate:error,data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-05.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-05.zip :: 'ascii' codec can't encode characters in position 41-44: ordinal not in range(128)
+币安人生USDT,fundingRate:error,data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-06.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-06.zip :: 'ascii' codec can't encode characters in position 41-44: ordinal not in range(128)
+币安人生USDT,fundingRate:error,data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-07.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-07.zip :: 'ascii' codec can't encode characters in position 41-44: ordinal not in range(128)
+币安人生USDT,fundingRate:error,data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-08.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/币安人生USDT/币安人生USDT-fundingRate-2026-08.zip :: 'ascii' codec can't encode characters in position 41-44: ordinal not in range(128)
+我踏马来了USDT,fundingRate:error,data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-01.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-01.zip :: 'ascii' codec can't encode characters in position 41-45: ordinal not in range(128)
+我踏马来了USDT,fundingRate:error,data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-02.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-02.zip :: 'ascii' codec can't encode characters in position 41-45: ordinal not in range(128)
+我踏马来了USDT,fundingRate:error,data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-03.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-03.zip :: 'ascii' codec can't encode characters in position 41-45: ordinal not in range(128)
+我踏马来了USDT,fundingRate:error,data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-04.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-04.zip :: 'ascii' codec can't encode characters in position 41-45: ordinal not in range(128)
+我踏马来了USDT,fundingRate:error,data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-05.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-05.zip :: 'ascii' codec can't encode characters in position 41-45: ordinal not in range(128)
+我踏马来了USDT,fundingRate:error,data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-06.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-06.zip :: 'ascii' codec can't encode characters in position 41-45: ordinal not in range(128)
+我踏马来了USDT,fundingRate:error,data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-07.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-07.zip :: 'ascii' codec can't encode characters in position 41-45: ordinal not in range(128)
+我踏马来了USDT,fundingRate:error,data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-08.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/我踏马来了USDT/我踏马来了USDT-fundingRate-2026-08.zip :: 'ascii' codec can't encode characters in position 41-45: ordinal not in range(128)
+牛来USDT,fundingRate:error,data/futures/um/monthly/fundingRate/牛来USDT/牛来USDT-fundingRate-2026-08.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/牛来USDT/牛来USDT-fundingRate-2026-08.zip :: 'ascii' codec can't encode characters in position 41-42: ordinal not in range(128)
+龙虾USDT,fundingRate:error,data/futures/um/monthly/fundingRate/龙虾USDT/龙虾USDT-fundingRate-2026-03.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/龙虾USDT/龙虾USDT-fundingRate-2026-03.zip :: 'ascii' codec can't encode characters in position 41-42: ordinal not in range(128)
+龙虾USDT,fundingRate:error,data/futures/um/monthly/fundingRate/龙虾USDT/龙虾USDT-fundingRate-2026-04.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/龙虾USDT/龙虾USDT-fundingRate-2026-04.zip :: 'ascii' codec can't encode characters in position 41-42: ordinal not in range(128)
+龙虾USDT,fundingRate:error,data/futures/um/monthly/fundingRate/龙虾USDT/龙虾USDT-fundingRate-2026-05.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/龙虾USDT/龙虾USDT-fundingRate-2026-05.zip :: 'ascii' codec can't encode characters in position 41-42: ordinal not in range(128)
+龙虾USDT,fundingRate:error,data/futures/um/monthly/fundingRate/龙虾USDT/龙虾USDT-fundingRate-2026-06.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/龙虾USDT/龙虾USDT-fundingRate-2026-06.zip :: 'ascii' codec can't encode characters in position 41-42: ordinal not in range(128)
+龙虾USDT,fundingRate:error,data/futures/um/monthly/fundingRate/龙虾USDT/龙虾USDT-fundingRate-2026-07.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/龙虾USDT/龙虾USDT-fundingRate-2026-07.zip :: 'ascii' codec can't encode characters in position 41-42: ordinal not in range(128)
+龙虾USDT,fundingRate:error,data/futures/um/monthly/fundingRate/龙虾USDT/龙虾USDT-fundingRate-2026-08.zip :: GET failed after 5 tries: https://data.binance.vision/data/futures/um/monthly/fundingRate/龙虾USDT/龙虾USDT-fundingRate-2026-08.zip :: 'ascii' codec can't encode characters in position 41-42: ordinal not in range(128)
+AERGOUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/AERGOUSDTSETTLED/1h/AERGOUSDTSETTLED-1h-2025-04.zip :: 404
+AERGOUSDTSETTLEDSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/AERGOUSDTSETTLEDSETTLED/1h/AERGOUSDTSETTLEDSETTLED-1h-2026-07.zip :: 404
+AIAUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/AIAUSDTSETTLED/1h/AIAUSDTSETTLED-1h-2026-01.zip :: 404
+BDXNUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/BDXNUSDTSETTLED/1h/BDXNUSDTSETTLED-1h-2026-04.zip :: 404
+BNXUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/BNXUSDTSETTLED/1h/BNXUSDTSETTLED-1h-2022-06.zip :: 404
+BNXUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/BNXUSDTSETTLED/1h/BNXUSDTSETTLED-1h-2022-04.zip :: 404
+BNXUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/BNXUSDTSETTLED/1h/BNXUSDTSETTLED-1h-2022-05.zip :: 404
+BNXUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/BNXUSDTSETTLED/1h/BNXUSDTSETTLED-1h-2022-07.zip :: 404
+BNXUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/BNXUSDTSETTLED/1h/BNXUSDTSETTLED-1h-2022-09.zip :: 404
+BNXUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/BNXUSDTSETTLED/1h/BNXUSDTSETTLED-1h-2022-08.zip :: 404
+BNXUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/BNXUSDTSETTLED/1h/BNXUSDTSETTLED-1h-2022-11.zip :: 404
+BNXUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/BNXUSDTSETTLED/1h/BNXUSDTSETTLED-1h-2022-12.zip :: 404
+BNXUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/BNXUSDTSETTLED/1h/BNXUSDTSETTLED-1h-2022-10.zip :: 404
+BNXUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/BNXUSDTSETTLED/1h/BNXUSDTSETTLED-1h-2023-01.zip :: 404
+BNXUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/BNXUSDTSETTLED/1h/BNXUSDTSETTLED-1h-2023-02.zip :: 404
+BTCSTUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/BTCSTUSDTSETTLED/1h/BTCSTUSDTSETTLED-1h-2026-07.zip :: 404
+CTKUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/CTKUSDTSETTLED/1h/CTKUSDTSETTLED-1h-2025-04.zip :: 404
+CVXUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/CVXUSDTSETTLED/1h/CVXUSDTSETTLED-1h-2025-07.zip :: 404
+ICPUSDT_SETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/ICPUSDT_SETTLED/1h/ICPUSDT_SETTLED-1h-2022-04.zip :: 404
+ICPUSDT_SETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/ICPUSDT_SETTLED/1h/ICPUSDT_SETTLED-1h-2022-06.zip :: 404
+ICPUSDT_SETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/ICPUSDT_SETTLED/1h/ICPUSDT_SETTLED-1h-2022-01.zip :: 404
+ICPUSDT_SETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/ICPUSDT_SETTLED/1h/ICPUSDT_SETTLED-1h-2022-07.zip :: 404
+ICPUSDT_SETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/ICPUSDT_SETTLED/1h/ICPUSDT_SETTLED-1h-2022-08.zip :: 404
+ICPUSDT_SETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/ICPUSDT_SETTLED/1h/ICPUSDT_SETTLED-1h-2022-02.zip :: 404
+ICPUSDT_SETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/ICPUSDT_SETTLED/1h/ICPUSDT_SETTLED-1h-2022-05.zip :: 404
+ICPUSDT_SETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/ICPUSDT_SETTLED/1h/ICPUSDT_SETTLED-1h-2022-03.zip :: 404
+LITUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/LITUSDTSETTLED/1h/LITUSDTSETTLED-1h-2025-12.zip :: 404
+MAVIAUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/MAVIAUSDTSETTLED/1h/MAVIAUSDTSETTLED-1h-2025-03.zip :: 404
+MINAUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/MINAUSDTSETTLED/1h/MINAUSDTSETTLED-1h-2023-02.zip :: 404
+SLPUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/SLPUSDTSETTLED/1h/SLPUSDTSETTLED-1h-2025-07.zip :: 404
+SXPUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/SXPUSDTSETTLED/1h/SXPUSDTSETTLED-1h-2026-06.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2022-02.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2022-03.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2022-06.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2022-07.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2022-09.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2022-01.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2022-12.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2023-01.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2022-05.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2022-04.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2022-10.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2022-08.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2022-11.zip :: 404
+TLMUSDTSETTLED,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/TLMUSDTSETTLED/1h/TLMUSDTSETTLED-1h-2023-02.zip :: 404
+币安人生USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/币安人生USDT/1h/币安人生USDT-1h-2025-10.zip :: 404
+币安人生USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/币安人生USDT/1h/币安人生USDT-1h-2025-11.zip :: 404
+币安人生USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/币安人生USDT/1h/币安人生USDT-1h-2025-12.zip :: 404
+币安人生USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/币安人生USDT/1h/币安人生USDT-1h-2026-01.zip :: 404
+币安人生USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/币安人生USDT/1h/币安人生USDT-1h-2026-02.zip :: 404
+币安人生USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/币安人生USDT/1h/币安人生USDT-1h-2026-03.zip :: 404
+币安人生USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/币安人生USDT/1h/币安人生USDT-1h-2026-04.zip :: 404
+币安人生USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/币安人生USDT/1h/币安人生USDT-1h-2026-05.zip :: 404
+币安人生USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/币安人生USDT/1h/币安人生USDT-1h-2026-06.zip :: 404
+币安人生USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/币安人生USDT/1h/币安人生USDT-1h-2026-07.zip :: 404
+币安人生USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/币安人生USDT/1h/币安人生USDT-1h-2026-08.zip :: 404
+我踏马来了USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/我踏马来了USDT/1h/我踏马来了USDT-1h-2026-01.zip :: 404
+我踏马来了USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/我踏马来了USDT/1h/我踏马来了USDT-1h-2026-02.zip :: 404
+我踏马来了USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/我踏马来了USDT/1h/我踏马来了USDT-1h-2026-04.zip :: 404
+我踏马来了USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/我踏马来了USDT/1h/我踏马来了USDT-1h-2026-07.zip :: 404
+我踏马来了USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/我踏马来了USDT/1h/我踏马来了USDT-1h-2026-08.zip :: 404
+牛来USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/牛来USDT/1h/牛来USDT-1h-2026-08.zip :: 404
+龙虾USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/龙虾USDT/1h/龙虾USDT-1h-2026-03.zip :: 404
+龙虾USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/龙虾USDT/1h/龙虾USDT-1h-2026-04.zip :: 404
+我踏马来了USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/我踏马来了USDT/1h/我踏马来了USDT-1h-2026-03.zip :: 404
+龙虾USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/龙虾USDT/1h/龙虾USDT-1h-2026-05.zip :: 404
+龙虾USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/龙虾USDT/1h/龙虾USDT-1h-2026-06.zip :: 404
+龙虾USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/龙虾USDT/1h/龙虾USDT-1h-2026-08.zip :: 404
+我踏马来了USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/我踏马来了USDT/1h/我踏马来了USDT-1h-2026-06.zip :: 404
+我踏马来了USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/我踏马来了USDT/1h/我踏马来了USDT-1h-2026-05.zip :: 404
+龙虾USDT,markPriceKlines:missing,data/futures/um/monthly/markPriceKlines/龙虾USDT/1h/龙虾USDT-1h-2026-07.zip :: 404
